@@ -1,5 +1,5 @@
 streamlit
-transformers
-torch
-peft
+transformers>=4.30.0
+torch>=2.0.0
+peft>=0.7.1
 sentencepiece
